@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include <string.h>
 #include <wayland-client.h>
 #include "text-input-unstable-v3-client-protocol.h"
