@@ -2,6 +2,7 @@ package waytext
 
 /*
 #cgo pkg-config: wayland-client
+#include <stdlib.h>
 #include "text_input.h"
 */
 import "C"
